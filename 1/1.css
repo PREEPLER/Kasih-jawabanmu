@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(245, 182, 8);
+}
+
+.div-navbr {
+    background-color: black;
+    display: flex;
+    height: 10%;
+    justify-content: center;
+    align-items: center;
+}
+
+.div-content {
+    height: 70%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.d1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.li-lanjut {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    height: 10%;
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+    align-items: center;
+}
+
+.end {
+    height: 10%;
+    background-color: black;
+}
